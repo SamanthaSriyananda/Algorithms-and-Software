@@ -1,7 +1,7 @@
 This program visualizes point clouds in three-dimensional (3D) space and provides multiple options for point-in-polyhedron testing, mesh generation, rendering, and point cloud generation.
 There are two ways to run the program:
 1. Download the .zip file, extract its contents, and follow the instructions in ReadMe.txt.
-2. Download the .exe files, freeglut.dll, and Points_Cloud.txt, and place all the files in the same folder. Then run the desired .exe file. This option provides limited functionality.
+2. Download the .exe files, freeglut.dll, and Points_Cloud.txt to one folder. Then run the desired .exe file. This option provides limited functionality.
    - 3DCellCudaPlot.exe: CPU + NVIDIA CUDA GPU for computation + Intel GPU for OpenGL rendering.
    - 3DCellOGLPlot.exe: CPU for computation + Intel GPU for OpenGL rendering.
 
@@ -11,5 +11,7 @@ There are two ways to run the program:
 3. Boundary determination: Identify or analyze the boundaries of a point cloud.
 4. Engineering and computer graphics: Support 3D visualization, geometric analysis, and related engineering applications.
 
-(R) Samantha Sriyananda
-Contact: mgssriyananda@gmail.com
+
+==================================================================
+(C) Samantha Sriyananda
+Contact: mgssriyananda@gmail.co
